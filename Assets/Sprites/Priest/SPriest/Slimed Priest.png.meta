@@ -1,0 +1,1385 @@
+fileFormatVersion: 2
+guid: 677aef8860bf08e4fba470356803f863
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5877314181582438868
+    second: Slimed Priest_0
+  - first:
+      213: -1260124312937816587
+    second: Slimed Priest_1
+  - first:
+      213: -4462350748458225964
+    second: Slimed Priest_2
+  - first:
+      213: 8683076582374070805
+    second: Slimed Priest_3
+  - first:
+      213: 3827868944151880538
+    second: Slimed Priest_4
+  - first:
+      213: 8343317861648829396
+    second: Slimed Priest_5
+  - first:
+      213: -377132510162025862
+    second: Slimed Priest_6
+  - first:
+      213: 3561813722087131662
+    second: Slimed Priest_7
+  - first:
+      213: 166044253718986868
+    second: Slimed Priest_8
+  - first:
+      213: -4359193679754368037
+    second: Slimed Priest_9
+  - first:
+      213: -4485752096699494760
+    second: Slimed Priest_10
+  - first:
+      213: -4542351491504358417
+    second: Slimed Priest_11
+  - first:
+      213: 4454579280696384870
+    second: Slimed Priest_12
+  - first:
+      213: 1926606258247638738
+    second: Slimed Priest_13
+  - first:
+      213: 5702055666709446165
+    second: Slimed Priest_14
+  - first:
+      213: -1727871113272648411
+    second: Slimed Priest_15
+  - first:
+      213: 472806063022611565
+    second: Slimed Priest_16
+  - first:
+      213: -5817011187890983932
+    second: Slimed Priest_17
+  - first:
+      213: -521755871008541369
+    second: Slimed Priest_18
+  - first:
+      213: -4882077548944582308
+    second: Slimed Priest_19
+  - first:
+      213: -7678933473259771534
+    second: Slimed Priest_20
+  - first:
+      213: -5920267073065868368
+    second: Slimed Priest_21
+  - first:
+      213: -6514295943777570806
+    second: Slimed Priest_22
+  - first:
+      213: 8739043527798631882
+    second: Slimed Priest_23
+  - first:
+      213: -7868890535689150510
+    second: Slimed Priest_24
+  - first:
+      213: -5410911470579107957
+    second: Slimed Priest_25
+  - first:
+      213: -3635805924354640918
+    second: Slimed Priest_26
+  - first:
+      213: 4844329312089165158
+    second: Slimed Priest_27
+  - first:
+      213: -2385650235691644882
+    second: Slimed Priest_28
+  - first:
+      213: 7329841121188779050
+    second: Slimed Priest_29
+  - first:
+      213: -225562191436856633
+    second: Slimed Priest_30
+  - first:
+      213: 4036696551025135945
+    second: Slimed Priest_31
+  - first:
+      213: 427576439092426638
+    second: Slimed Priest_32
+  - first:
+      213: 1766717726086002467
+    second: Slimed Priest_33
+  - first:
+      213: 3906151970726684369
+    second: Slimed Priest_34
+  - first:
+      213: 7087559525038453463
+    second: Slimed Priest_35
+  - first:
+      213: -2690574183241818145
+    second: Slimed Priest_36
+  - first:
+      213: 2370090453812022520
+    second: Slimed Priest_37
+  - first:
+      213: -5277810599591356254
+    second: Slimed Priest_38
+  - first:
+      213: -7645979151312023665
+    second: Slimed Priest_39
+  - first:
+      213: -1459814268193531271
+    second: Slimed Priest_40
+  - first:
+      213: 409215947944083314
+    second: Slimed Priest_41
+  - first:
+      213: -7909361251597425848
+    second: Slimed Priest_42
+  - first:
+      213: 23518957427132907
+    second: Slimed Priest_43
+  - first:
+      213: 365665443381363735
+    second: Slimed Priest_44
+  - first:
+      213: 1577056904235057277
+    second: Slimed Priest_45
+  - first:
+      213: 4954518108900813786
+    second: Slimed Priest_46
+  - first:
+      213: -5818036310229796015
+    second: Slimed Priest_47
+  - first:
+      213: 6064298493885863939
+    second: Slimed Priest_48
+  - first:
+      213: -2494853878586381232
+    second: Slimed Priest_49
+  - first:
+      213: 5298623746569489656
+    second: Slimed Priest_50
+  - first:
+      213: 543229479734731638
+    second: Slimed Priest_51
+  - first:
+      213: 2343904264111247744
+    second: Slimed Priest_52
+  - first:
+      213: -3112599422803897260
+    second: Slimed Priest_53
+  - first:
+      213: 405733136055605772
+    second: Slimed Priest_54
+  - first:
+      213: -5500815854579327240
+    second: Slimed Priest_55
+  - first:
+      213: 6044328439892432403
+    second: Slimed Priest_56
+  - first:
+      213: 1757111458929408851
+    second: Slimed Priest_57
+  - first:
+      213: -8174558932404248791
+    second: Slimed Priest_58
+  - first:
+      213: 6524368471079465124
+    second: Slimed Priest_59
+  - first:
+      213: -6183473636092307256
+    second: Slimed Priest_60
+  - first:
+      213: -978409159873795948
+    second: Slimed Priest_61
+  - first:
+      213: -1665389174707876964
+    second: Slimed Priest_62
+  - first:
+      213: -8985951581725023746
+    second: Slimed Priest_63
+  - first:
+      213: -8341084008742616727
+    second: Slimed Priest_64
+  - first:
+      213: -6196293503916193957
+    second: Slimed Priest_65
+  - first:
+      213: 1745880026231513241
+    second: Slimed Priest_66
+  - first:
+      213: 2761284932895569493
+    second: Slimed Priest_67
+  - first:
+      213: 8559542923149117451
+    second: Slimed Priest_68
+  - first:
+      213: 8864965656820521728
+    second: Slimed Priest_69
+  - first:
+      213: 4084974507810826362
+    second: Slimed Priest_70
+  - first:
+      213: 7725783935609963654
+    second: Slimed Priest_71
+  - first:
+      213: 1667365700179776032
+    second: Slimed Priest_72
+  - first:
+      213: 1528045823142426841
+    second: Slimed Priest_73
+  - first:
+      213: 2937601841222651475
+    second: Slimed Priest_74
+  - first:
+      213: -8821712536396526210
+    second: Slimed Priest_75
+  - first:
+      213: -6339359549113244418
+    second: Slimed Priest_76
+  - first:
+      213: 4970275723225046552
+    second: Slimed Priest_77
+  - first:
+      213: -8796718276877662219
+    second: Slimed Priest_78
+  - first:
+      213: 7145936114468055887
+    second: Slimed Priest_79
+  - first:
+      213: -8389700705596610026
+    second: Slimed Priest_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slimed Priest_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1469adb1a609150800000000000000
+      internalID: 5877314181582438868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd12822d93238ee0800000000000000
+      internalID: -1260124312937816587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dee2f603ab8212c0800000000000000
+      internalID: -4462350748458225964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a5be1952c708870800000000000000
+      internalID: 8683076582374070805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a532ce616825f1530800000000000000
+      internalID: 3827868944151880538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db00cfe36b69c370800000000000000
+      internalID: 8343317861648829396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a728a8aeaf724caf0800000000000000
+      internalID: -377132510162025862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a8d1d75ba1e6130800000000000000
+      internalID: 3561813722087131662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4704ae77e58ed4200800000000000000
+      internalID: 166044253718986868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbec1bb1780183c0800000000000000
+      internalID: -4359193679754368037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e43cd0c386fb1c0800000000000000
+      internalID: -4485752096699494760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febbae7826356f0c0800000000000000
+      internalID: -4542351491504358417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d19b12148d1dd30800000000000000
+      internalID: 4454579280696384870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de15ec2f2eacba10800000000000000
+      internalID: 1926606258247638738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e38b70b65c12f40800000000000000
+      internalID: 5702055666709446165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d99bb806e5508e0800000000000000
+      internalID: -1727871113272648411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c1d1afb9ebf8600800000000000000
+      internalID: 472806063022611565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ce84bf423d54fa0800000000000000
+      internalID: -5817011187890983932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745bf09bcc952c8f0800000000000000
+      internalID: -521755871008541369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_19
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c599f39e5506f3cb0800000000000000
+      internalID: -4882077548944582308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_20
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279ae78d0b2fe6590800000000000000
+      internalID: -7678933473259771534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3a776c67cf6dda0800000000000000
+      internalID: -5920267073065868368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00be557a529895a0800000000000000
+      internalID: -6514295943777570806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd2d1f79c1574970800000000000000
+      internalID: 8739043527798631882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_24
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df90dbbfb51cc290800000000000000
+      internalID: -7868890535689150510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87bb0d8fa498e4b0800000000000000
+      internalID: -5410911470579107957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_26
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3b49e66c50b8dc0800000000000000
+      internalID: -3635805924354640918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d461ec7d38a3340800000000000000
+      internalID: 4844329312089165158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28c54710c774eed0800000000000000
+      internalID: -2385650235691644882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2412802aa3d8b560800000000000000
+      internalID: 7329841121188779050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2c5a8c164aedcf0800000000000000
+      internalID: -225562191436856633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_31
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941d5e5302a350830800000000000000
+      internalID: 4036696551025135945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_32
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e873e66818e0fe500800000000000000
+      internalID: 427576439092426638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_33
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327fdb15964a48810800000000000000
+      internalID: 1766717726086002467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_34
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d62bdd8580753630800000000000000
+      internalID: 3906151970726684369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d27a5626d11c5260800000000000000
+      internalID: 7087559525038453463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfd80e190929aad0800000000000000
+      internalID: -2690574183241818145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc8201e5b044e020800000000000000
+      internalID: 2370090453812022520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8d093093371c6b0800000000000000
+      internalID: -5277810599591356254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_39
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f0106d87604e590800000000000000
+      internalID: -7645979151312023665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_40
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a174258a2bdbbe0800000000000000
+      internalID: -1459814268193531271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fb1ad8cb3dda500800000000000000
+      internalID: 409215947944083314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843eb46e8dd4c3290800000000000000
+      internalID: -7909361251597425848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimed Priest_43
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be98eeefd5e835000800000000000000
+      internalID: 23518957427132907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2eecf8430028952468cb01c76ce3b7af
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Slimed Priest_0: 5877314181582438868
+      Slimed Priest_1: -1260124312937816587
+      Slimed Priest_10: -4485752096699494760
+      Slimed Priest_11: -4542351491504358417
+      Slimed Priest_12: 4454579280696384870
+      Slimed Priest_13: 1926606258247638738
+      Slimed Priest_14: 5702055666709446165
+      Slimed Priest_15: -1727871113272648411
+      Slimed Priest_16: 472806063022611565
+      Slimed Priest_17: -5817011187890983932
+      Slimed Priest_18: -521755871008541369
+      Slimed Priest_19: -4882077548944582308
+      Slimed Priest_2: -4462350748458225964
+      Slimed Priest_20: -7678933473259771534
+      Slimed Priest_21: -5920267073065868368
+      Slimed Priest_22: -6514295943777570806
+      Slimed Priest_23: 8739043527798631882
+      Slimed Priest_24: -7868890535689150510
+      Slimed Priest_25: -5410911470579107957
+      Slimed Priest_26: -3635805924354640918
+      Slimed Priest_27: 4844329312089165158
+      Slimed Priest_28: -2385650235691644882
+      Slimed Priest_29: 7329841121188779050
+      Slimed Priest_3: 8683076582374070805
+      Slimed Priest_30: -225562191436856633
+      Slimed Priest_31: 4036696551025135945
+      Slimed Priest_32: 427576439092426638
+      Slimed Priest_33: 1766717726086002467
+      Slimed Priest_34: 3906151970726684369
+      Slimed Priest_35: 7087559525038453463
+      Slimed Priest_36: -2690574183241818145
+      Slimed Priest_37: 2370090453812022520
+      Slimed Priest_38: -5277810599591356254
+      Slimed Priest_39: -7645979151312023665
+      Slimed Priest_4: 3827868944151880538
+      Slimed Priest_40: -1459814268193531271
+      Slimed Priest_41: 409215947944083314
+      Slimed Priest_42: -7909361251597425848
+      Slimed Priest_43: 23518957427132907
+      Slimed Priest_5: 8343317861648829396
+      Slimed Priest_6: -377132510162025862
+      Slimed Priest_7: 3561813722087131662
+      Slimed Priest_8: 166044253718986868
+      Slimed Priest_9: -4359193679754368037
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
