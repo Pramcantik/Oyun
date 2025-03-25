@@ -26,23 +26,15 @@ public class movement : MonoBehaviour
         animator.SetFloat("xVelocity", rb.linearVelocity.x);
         animator.SetFloat("yVelocity", rb.linearVelocity.y);
 
-        if (Input.GetKeyDown(KeyCode.LeftArrow))
+        if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.A))
         {
             animator.SetBool("facingR", false);
             animator.SetBool("facingL", true);
-            if (rb.linearVelocity.x == 0 && rb.linearVelocity.y == 0)
-            {
-                animator.SetBool("facingL", false);
-            }
         }
-        if (Input.GetKeyDown(KeyCode.RightArrow))
+        if (Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.D))
         {
             animator.SetBool("facingL", false);
             animator.SetBool("facingR", true);
-            if (rb.linearVelocity.x == 0 && rb.linearVelocity.y == 0)
-            {
-                animator.SetBool("facingR", false);
-            }
         }
     }
 }
