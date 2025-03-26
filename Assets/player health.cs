@@ -29,6 +29,7 @@ public class PlayerHealth : MonoBehaviour
     public void Hasaral(int amount)
     {
         hp -= amount;
+        
         if (hp <= 0)
         {
             Die();
