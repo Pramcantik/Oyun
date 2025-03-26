@@ -7,11 +7,13 @@ public class StabHitbox : MonoBehaviour
     
 private void OnTriggerEnter2D(Collider2D other)
     {
-        
+
+       Debug.Log("Hitbox Ã§arptÄ±: " + other.name);
 
         if (other.CompareTag("Enemy"))
         {
-            Debug.Log("Hitbox çarptý: " + other.name);
+            Debug.Log("DÃ¼ÅŸman algÄ±landÄ±!");
+
             var enemy = other.GetComponent<EnemyHealth>();
             if (enemy != null)
             {
@@ -36,9 +38,11 @@ private void OnTriggerEnter2D(Collider2D other)
     }
     void StopAttack()
     {
+
         animator.SetBool("Attack", false);
-        stabHitbox.SetActive(false); // Bu önemli kýsým
-        animator.Play("Movement-R"); // veya baþka bir animasyona geç
+        stabHitbox.SetActive(false); // Bu ï¿½nemli kï¿½sï¿½m
+        animator.Play("Movement-R"); // veya baï¿½ka bir animasyona geï¿½
+
     }
     public GameObject stabHitbox;
 
