@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class EnemyHealth : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     public int health = 3;
+    public int hasar= 50;
 
     public void TakeDamage(int amount)
     {
@@ -14,7 +14,7 @@ public class EnemyHealth : MonoBehaviour
         }
     }
 
-    void Die()
+    public void Die()
     {
         Destroy(gameObject);
     }
