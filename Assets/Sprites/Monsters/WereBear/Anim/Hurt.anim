@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Hurt
+  m_Name: hurt
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -22,11 +22,11 @@ AnimationClip:
     curve:
     - time: 0
       value: {fileID: -1468992467970853836, guid: 8dfe457e13bda274c98746364e6b71ee, type: 3}
-    - time: 0.16666667
+    - time: 0.21666667
       value: {fileID: 2866616238435076535, guid: 8dfe457e13bda274c98746364e6b71ee, type: 3}
-    - time: 0.33333334
+    - time: 0.41666666
       value: {fileID: -2766649211370415354, guid: 8dfe457e13bda274c98746364e6b71ee, type: 3}
-    - time: 0.5
+    - time: 0.6333333
       value: {fileID: -2035263668343403277, guid: 8dfe457e13bda274c98746364e6b71ee, type: 3}
     attribute: m_Sprite
     path: 
@@ -59,7 +59,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.51666665
+    m_StopTime: 0.65
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
