@@ -7,14 +7,15 @@ public class StabHitbox : MonoBehaviour
     
 private void OnTriggerEnter2D(Collider2D other)
     {
+        Debug.Log("Hitbox çarptý: " + other.name);
+
         if (other.CompareTag("Enemy"))
         {
-            Debug.Log("We hit");
+            Debug.Log("Düþman algýlandý!");
             var enemy = other.GetComponent<EnemyHealth>();
             if (enemy != null)
             {
                 enemy.TakeDamage(damage);
-                Debug.Log("We hit");
             }
         }
     }
@@ -29,6 +30,12 @@ private void OnTriggerEnter2D(Collider2D other)
     {
 
         animator.SetTrigger("Attack");
+    }
+    void StopAttack()
+    {
+        Attacking = false;
+        stabHitbox.SetActive(false); // Bu önemli kýsým
+        animator.Play("Idle"); // veya baþka bir animasyona geç
     }
     public GameObject stabHitbox;
 
